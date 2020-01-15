@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:orderInCategory="1"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/action_shuffle"
+        android:tooltipText="Shuffle"
+        android:orderInCategory="2"
+        android:title="Shuffle"
+        app:showAsAction="always"
+        />
+
+
+    <item
+        android:id="@+id/recent"
+        android:tooltipText="create playlist"
+        android:orderInCategory="3"
+        android:title="Recently Played"
+        android:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/create_playlist"
+        android:tooltipText="create playlist"
+        android:orderInCategory="4"
+        android:title="Create Playlist"
+        android:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/open_playlist"
+        android:tooltipText="open playlist"
+        android:orderInCategory="5"
+        android:title="Open Playlist"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/edit_playlist"
+        android:tooltipText="open playlist"
+        android:orderInCategory="6"
+        android:title="Edit Playlist"
+        android:showAsAction="always" />
+
+
+
+    <item
+        android:id="@+id/open_tracks"
+        android:tooltipText="all songs"
+        android:orderInCategory="7"
+        android:title="All Songs"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_end"
+        android:tooltipText="Exit"
+        android:orderInCategory="7"
+        android:title="End"
+        android:showAsAction="always" />
+
+
+
+</menu>

@@ -1,0 +1,4 @@
+#Fri Sep 20 23:52:28 IST 2019
+base.0=C\:\\Users\\devanshjsr\\Desktop\\musicplayer\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
