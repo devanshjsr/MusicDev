@@ -1,5 +1,5 @@
 # MusicDev
-A Music Player App build using Android Studio to listen to the available songs.
+A Music Player App build using Android Studio to listen to the songs and other mp3 files in phone storage.
 
 ## Features
 1) Full control with tools like play, pause, fast forward/backward, next and previous.
