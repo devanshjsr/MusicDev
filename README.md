@@ -1,4 +1,4 @@
-# MusicPlayer
+# MusicDev
 A Music Player App build using Android Studio to listen to the available songs.
 
 ## Features
